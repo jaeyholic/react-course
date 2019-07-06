@@ -128,9 +128,9 @@ a {
   }
 }
 
-@media (max-width: 720) {
+@media (max-width: 720px) {
   .cardGroup {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
   }
 }
 
